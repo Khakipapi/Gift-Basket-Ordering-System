@@ -24,7 +24,7 @@ To run this application, ensure you have Java installed on your machine. You can
 ### Steps to Install:
 1. Clone the repository:
     ```sh
-    git clone <repository_url>
+    git clone https://github.com/Khakipapi/Inheritance-and-Encapsulation.git
     ```
 2. Navigate to the project directory:
     ```sh
