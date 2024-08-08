@@ -1,6 +1,4 @@
-Here is a comprehensive README file in Markdown format for the provided Java program.
 
-```markdown
 # Gift Basket Ordering System
 
 ## Introduction
